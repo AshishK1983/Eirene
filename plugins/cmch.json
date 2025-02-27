@@ -2,7 +2,7 @@
     "pluginname": "CMCH APP",
     "icon": "mif-medkit",
     "systemplugin": 0,
-    "version": 1.0,
+    "version": 1.1,
 	"form_html": "",
     "script": "",
     "sqlcommands_oninstall": [],
